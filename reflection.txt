@@ -1,0 +1,7 @@
+Learning to Code (Again!) Diary 2023
+
+June 4 2023:
+- Revisited Command Line Basics
+- Learning to use Git and GitHub Again
+
+It was very daunting to get started. But once I started revisiting the Foundations course content, things have started to come back to me. Phew! I feel a lot less intimidated.
