@@ -6,3 +6,6 @@ June 4 2023:
 - Learning to use Git and GitHub Again
 
 It was very daunting to get started. But once I started revisiting the Foundations course content, things have started to come back to me. Phew! I feel a lot less intimidated.
+
+Stuff to remember:
+- Use imperative language for git commits. E.g. Use "Make dog bark" (imperative) instead of "Makes dog bark" or "Made the dog bark".
