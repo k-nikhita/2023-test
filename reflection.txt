@@ -13,3 +13,7 @@ Stuff to remember:
 June 5 2023:
 - Introduction to HTML, CSS and JavaScript
 - Introduction to DOM Manipulation 
+
+Started the NEW Responsive Web Certification Course on FreeCodeCamp and completed challenges 1-12 of the HTML course.
+
+Tomorrow: DevTools CrashCourse
