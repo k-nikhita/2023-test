@@ -9,3 +9,7 @@ It was very daunting to get started. But once I started revisiting the Foundatio
 
 Stuff to remember:
 - Use imperative language for git commits. E.g. Use "Make dog bark" (imperative) instead of "Makes dog bark" or "Made the dog bark".
+
+June 5 2023:
+- Introduction to HTML, CSS and JavaScript
+- Introduction to DOM Manipulation 
